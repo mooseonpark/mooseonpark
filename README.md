@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>dd</h1>
+<div class="ocean">
+  <div class="wave"></div>
+  <div class="wave"></div>
+</div>
