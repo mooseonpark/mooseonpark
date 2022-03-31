@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=48CFAD&text=%20MooseonPark%20%20&height=180&fontSize=65&animation=fadeIn&fontAlignY=34)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4bb99a&fontColor=white&text=%20MooseonPark%20%20&height=180&fontSize=65&animation=fadeIn&fontAlignY=34)
 
