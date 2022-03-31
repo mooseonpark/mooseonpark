@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20MooSeon Dev world%20%20&height=200&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20MooSeon_world%20%20&height=200&fontSize=40)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MooSeonPark%20%20&height=200&fontSize=100)
