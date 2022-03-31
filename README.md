@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20FE_Dev_MooSeon%20%20&height=180&fontSize=50&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20Mooooooseon%20%20&height=180&fontSize=60&animation=blinking&fontAlignY=30)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MooSeonPark%20%20&height=200&fontSize=100)
