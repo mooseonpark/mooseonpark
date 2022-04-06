@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c4ffa0&text=%20Mooseon,%20%20&height=180&fontSize=45&animation=twinkling&fontAlignY=34&fontColor=f6f3d4)
-
+스택 넣을거임
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=c4ffa0&height=180&fontAlignY=70&text=:-D&fontColor=f6f3d4&animation=twinkling&section=footer)
