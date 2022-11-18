@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=c4ffa0&text=%20Mooseon,%20%20&height=180&fontSize=45&animation=twinkling&fontAlignY=34&fontColor=f6f3d4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c4ffa0&text=%20Mooseon,%20%20&height=180&fontSize=45&animation=twinkling&fontAlignY=34&fontColor=31302a)
 
 Skills 🖥
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,4 +30,4 @@ Learning 🧑‍💻
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=c4ffa0&height=180&fontAlignY=70&text=:-D&fontColor=f6f3d4&animation=twinkling&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=c4ffa0&height=180&fontAlignY=70&text=:-D&fontColor=31302a&animation=twinkling&section=footer)
